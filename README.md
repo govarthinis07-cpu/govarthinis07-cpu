@@ -107,9 +107,8 @@ public class Govarthini {
 
 | Project | Stack | Description |
 |---|---|---|
-| **Hotel Reservation System** | Java, OOP | Room booking, availability checking, and cancellation system with modules for managing hotel operations |
-| **Student Grade Tracker** | Java | Application to record, calculate, and monitor academic grades with reporting features |
-
+| **[Hotel Reservation System](https://github.com/govarthinis07-cpu/hotel-reservation-system)** | Java, OOP | Room booking, availability checking, and cancellation system with modules for managing hotel operations |
+| **[Student Grade Tracker](https://github.com/govarthinis07-cpu/student-grade-tracker)** | Java | Application to record, calculate, and monitor academic grades with reporting features |
 </div>
 
 ---

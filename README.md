@@ -63,8 +63,6 @@ public class Govarthini {
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=govarthinis07-cpu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="49%" />
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=govarthinis07-cpu&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="35%" />
 
-<img src="https://streak-stats.demolab.com?user=govarthinis07-cpu&theme=tokyonight&background=0d1117&hide_border=true" width="49%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=govarthinis07-cpu&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="90%" />
 
 </div>

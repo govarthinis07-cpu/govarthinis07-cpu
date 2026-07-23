@@ -69,7 +69,7 @@ public class Govarthini {
 
 ---
 
-### 💼 Work Experience
+### 💼 Experience
 
 <details>
 <summary><b>Java Programming Intern</b> — Jan 2026 – March 2026</summary>
